@@ -1,0 +1,2 @@
+After you have created your account, submit a ﬁle named github.txt with a
+URL to your GitHub proﬁle.
